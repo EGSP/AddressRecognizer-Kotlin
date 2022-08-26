@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "egsp"
-version = "0.9-alpha"
+version = "1.0-release"
 
 repositories {
     mavenCentral()
